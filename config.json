@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://karoui:karoui@cluster0.0vqchyj.mongodb.net/",
+  "port": 3000
+}
